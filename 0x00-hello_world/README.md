@@ -6,3 +6,4 @@
 # 5 - C program to print text on the console using printf function
 # 6- C program that prints the size of various types on the computer it is compiled on
 # 7- Script that generates the assembly code of a C code
+# 8- Program to print using write function
