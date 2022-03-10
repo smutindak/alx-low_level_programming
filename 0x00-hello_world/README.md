@@ -4,3 +4,4 @@
 # 3- Script that compiles a C file and creates an executable file
 # 4- C program that prints a statement using the function puts and program ending with 0
 # 5 - C program to print text on the console using printf function
+# 6- C program that prints the size of various types on the computer it is compiled on
