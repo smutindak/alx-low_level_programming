@@ -4,3 +4,4 @@
 # 3- Program to print lowercase and uppercase on the same line using putchar
 # 5- Program to print single digits of base 10 starting from 0
 # 6- Print numbers 0-9 using putchar function and not using variable of type char
+# 7- Print the alphabet in reverse order using lowercase by use of putchar()
