@@ -5,3 +5,4 @@
 # 5- Program to print single digits of base 10 starting from 0
 # 6- Print numbers 0-9 using putchar function and not using variable of type char
 # 7- Print the alphabet in reverse order using lowercase by use of putchar()
+# 8- Print all numbers of base 16 in lowercase by use of putchar() function
