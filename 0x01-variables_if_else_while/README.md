@@ -8,3 +8,4 @@
 # 7- Print the alphabet in reverse order using lowercase by use of putchar()
 # 8- Print all numbers of base 16 in lowercase by use of putchar() function
 # 9- Program that prints all possible combinations of single digits with a comma and space in between
+# 10- Write a program that prints all possible different combinations of two digits
