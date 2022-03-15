@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include "main.h"
+
 /**
  * add - adds two integers and returns the result
  * @a: an integer to add to b
