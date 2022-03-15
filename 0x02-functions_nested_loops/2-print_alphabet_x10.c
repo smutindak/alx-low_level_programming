@@ -8,7 +8,7 @@
  *
  * Return: Always 0 (Success)
  */
-void rint_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
     char letter;
     char b=0;
