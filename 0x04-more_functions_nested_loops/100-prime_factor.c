@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main -  calculate largest prime of 612852475143
@@ -22,3 +22,4 @@ int main(void)
 	printf("%ld\n", py);
 	return (0);
 }
+
