@@ -1,22 +1,18 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
- * print_numbers - Print number 0-9 followed by a new line
- * Return: Always 0.
+ * print_numbers - Print numbers between 0 to 9 incl.
+ *
+ * Return: Void.
  */
-
 void print_numbers(void)
 {
-	int a;
+	int i;
 
-	for (a = 0; a < 10; a++)
+	for (i = 0; i < 10; i++)
 	{
-		_putchar(a + '0');
+		_putchar(i + '0');
 	}
-	_purchar('\n');
-
-	return (0);
+	_putchar('\n');
 }
