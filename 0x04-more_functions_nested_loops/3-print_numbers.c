@@ -18,5 +18,5 @@ void print_numbers(void)
 	}
 	_purchar('\n');
 
-    return (0);
+	return (0);
 }
