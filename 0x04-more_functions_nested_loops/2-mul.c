@@ -5,18 +5,16 @@
 
 /**
  * mul - Multiply 2 integers
- * @c: Multiply 2 integers
+ * @a: Integer a
+ * @b: Integer b
  * Return: Always 0.
  */
 
 int mul(int a, int b)
 {
-    int num1;
-    int num2;
-    int result;
+	int result;
 
-    result = num1 * num2;
+	result = a * b;
 
-    return (result);
-    
+	return (result);
 }
