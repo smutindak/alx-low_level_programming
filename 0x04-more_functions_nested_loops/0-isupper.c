@@ -16,7 +16,7 @@ int _isupper(int c)
 
     for (uppercase = 'A'; uppercase <= 'Z'; uppercase++)
     {
-        if (c = uppercase)
+        if (c == uppercase)
         {
             isupper = 1;
             break;
