@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * swap - main
- * @n: - pointer to int.
+ * swap_int - main
+ * @a: - int a
+ * @b: - int a
  */
 
-void swap(int *a, int *b)
+void swap_int(int *a, int *b)
 {
     int swap; 
 
