@@ -14,6 +14,6 @@ int _strlen(char *s)
 
 	int l;
 
-	l = atoi(strlen(*s));
+	l = atoi(strlen(s));
 	return (l);
 }
