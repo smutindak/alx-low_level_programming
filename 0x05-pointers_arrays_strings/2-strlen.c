@@ -12,8 +12,9 @@
 int _strlen(char *s)
 {
 
-	int l;
+	int lenth0 = (int)s;
+	int length1;
 
-	l = atoi(strlen(s));
-	return (l);
+	length = strlen(length0);
+	return (length);
 }
