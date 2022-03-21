@@ -1,0 +1,1 @@
+# This Exercise is all about pointers,arrays and how they work in C
