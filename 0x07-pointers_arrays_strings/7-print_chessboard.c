@@ -2,7 +2,7 @@
 
 /**
   * print_chessboard - Print the chessboard
-  * @a: array of pieces
+  * @a: array of piecess
   *
   * Return: Nothing.
   */
